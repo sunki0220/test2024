@@ -8,12 +8,8 @@ int main() {
 
     // printf를 사용하여 출력
     printf("이름: %s\n", name);
-    printf("나이: %d세\n", age);
+    
     printf("키: %.1fcm\n", height);
-
-    printf("123123124: %.1fcm\n", height);
-    printf("123123124: %.1fcm\n", height);
-    printf("123123124: %.1fcm\n", height);
 
     return 0;
 }
