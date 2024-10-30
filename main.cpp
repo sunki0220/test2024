@@ -12,6 +12,8 @@ int main() {
     printf("키: %.1fcm\n", height);
 
     printf("123123124: %.1fcm\n", height);
+    printf("123123124: %.1fcm\n", height);
+    printf("123123124: %.1fcm\n", height);
 
     return 0;
 }
